@@ -1,10 +1,3 @@
-# INFO
-Due to a lot of people not reading guides anymore, I dropped this project and I stopped helping people. It makes me sad to see that people really don't want to put effort into making a hackintosh and in most case will fall back to someone who can hold their hand through the process.
-
-I am sorry to the people who benefited from this repo and did research before asking their questions. I have a lot of other things which I'm currently prioritising over this project due to the fact that people don't really show interest and/or effort into the process.
-
-If people really need my help with a problem, you can send me a message or ping me in the hackintosh server (@camiel#1337).
-
 # Install High Sierra on a hackintosh
 
 You've read it, this guide/repo will guide you on how to install High Sierra to your desktop computer (laptop could work too, I am not going to do that in this guide though since laptops aren't in the general 

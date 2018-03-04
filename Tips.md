@@ -156,7 +156,9 @@ If you wanted to boot macos succesfully, you needed one of the following:
 
 These fixed some issues with the macos kernel and memory.
 
-There's now is a new EFI driver to replace OsxAptioFix2, called AptioMemoryFix. It shims the AMI Keycode protocol onto the Apple KeyMap protocols and fixes the global timer to prevent pointer coordinate overflows. This *should* also cure NVRAM in most cases.
+There's now a new EFI driver to replace OsxAptioFix2, called AptioMemoryFix. This *should* cure NVRAM in most cases and end the need for custom slide values.
+
+AptioInputFix shims the AMI Keycode protocol onto the Apple KeyMap protocols and fixes the global timer to prevent pointer coordinate overflows.
 
 I really, **really** recommend you to use this new driver. The old ones are busted and do not provide the level of patching this one brings.
 

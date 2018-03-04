@@ -17,7 +17,7 @@ This config.plist is an example for Haswell systems. This config includes:
 * FixShutdown
 * Disabled SIP
 
-## Kaby Lake config.plist
+## kaby_lake_config.plist
 This config.plist is an example for Kaby lake systems. This config includes:
 * InjectsKexts = Yes
 * Skylake/Kaby Lake USB properties
